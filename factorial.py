@@ -12,8 +12,7 @@ def factorial(n):
 
 
 num = 5;
-print("Factorial of",num,"is",
-factorial(num))
+print(factorial(num))
 
 
 		
